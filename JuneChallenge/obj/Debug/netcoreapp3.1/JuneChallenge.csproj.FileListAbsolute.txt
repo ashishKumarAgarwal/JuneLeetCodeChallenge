@@ -1,0 +1,10 @@
+C:\Users\agaash01\OneDrive - CSG Systems Inc\Leet\JuneLeetCodeChallange\JuneLeetCodeChallenge\JuneChallenge\bin\Debug\netcoreapp3.1\JuneChallenge.exe
+C:\Users\agaash01\OneDrive - CSG Systems Inc\Leet\JuneLeetCodeChallange\JuneLeetCodeChallenge\JuneChallenge\bin\Debug\netcoreapp3.1\JuneChallenge.deps.json
+C:\Users\agaash01\OneDrive - CSG Systems Inc\Leet\JuneLeetCodeChallange\JuneLeetCodeChallenge\JuneChallenge\bin\Debug\netcoreapp3.1\JuneChallenge.runtimeconfig.json
+C:\Users\agaash01\OneDrive - CSG Systems Inc\Leet\JuneLeetCodeChallange\JuneLeetCodeChallenge\JuneChallenge\bin\Debug\netcoreapp3.1\JuneChallenge.runtimeconfig.dev.json
+C:\Users\agaash01\OneDrive - CSG Systems Inc\Leet\JuneLeetCodeChallange\JuneLeetCodeChallenge\JuneChallenge\bin\Debug\netcoreapp3.1\JuneChallenge.dll
+C:\Users\agaash01\OneDrive - CSG Systems Inc\Leet\JuneLeetCodeChallange\JuneLeetCodeChallenge\JuneChallenge\bin\Debug\netcoreapp3.1\JuneChallenge.pdb
+C:\Users\agaash01\OneDrive - CSG Systems Inc\Leet\JuneLeetCodeChallange\JuneLeetCodeChallenge\JuneChallenge\obj\Debug\netcoreapp3.1\JuneChallenge.AssemblyInfoInputs.cache
+C:\Users\agaash01\OneDrive - CSG Systems Inc\Leet\JuneLeetCodeChallange\JuneLeetCodeChallenge\JuneChallenge\obj\Debug\netcoreapp3.1\JuneChallenge.AssemblyInfo.cs
+C:\Users\agaash01\OneDrive - CSG Systems Inc\Leet\JuneLeetCodeChallange\JuneLeetCodeChallenge\JuneChallenge\obj\Debug\netcoreapp3.1\JuneChallenge.dll
+C:\Users\agaash01\OneDrive - CSG Systems Inc\Leet\JuneLeetCodeChallange\JuneLeetCodeChallenge\JuneChallenge\obj\Debug\netcoreapp3.1\JuneChallenge.pdb
